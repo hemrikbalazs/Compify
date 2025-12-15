@@ -5,6 +5,11 @@ without the use of javascript frameworks.
 
 Create a copy of this template, and open it with VScode or the IDE of your choice.
 
+.gitkeep files were created and added to the empty folders to retain the directory structure of the project. Run the following bash script
+in the root folder of your project to delete all the .gitkeep files, as they are no longer necessary:
+
+  find . -name ".gitkeep" -type f -delete
+
 Develop the static structure of your pages in the root folder. This template already includes a tailwind.config.js file and an index.html
 file. The use of tailwind is encouraged to style your pages and components. Tailwind is already linked to index.html as a CDN.
 
