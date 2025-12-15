@@ -5,7 +5,7 @@ without the use of javascript frameworks.
 
 Create a copy of this template, and open it with VScode or the IDE of your choice.
 
-Develop the static structure of your pages in the root folder. This template already includes a tailwind.config file and an index.html
+Develop the static structure of your pages in the root folder. This template already includes a tailwind.config.js file and an index.html
 file. The use of tailwind is encouraged to style your pages and components. Tailwind is already linked to index.html as a CDN.
 
 Create and store html fragments, henceforth refferred to as components, in the subfolders of the components folder. Add a unique 
