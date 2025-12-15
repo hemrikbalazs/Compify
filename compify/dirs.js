@@ -1,7 +1,7 @@
 /**
  * constants that store the directories under /components
  * 
- * it is encoureged to use these directories to store
+ * it is encouraged to use these directories to store
  * components and reference them by the constants sotred
  * here
  * 
